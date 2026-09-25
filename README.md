@@ -4,6 +4,8 @@ A hands-on learning project. The ToDo app itself is just a vehicle — the real
 goal was to learn, end-to-end, how a production-style FastAPI backend is
 structured and connected to a real cloud PostgreSQL database.
 
+🔗 **Live Demo:** [fastapi-project-with-sqlalchemy.onrender.com](https://fastapi-project-with-sqlalchemy.onrender.com/)
+
 ## Learning Goals (Achieved)
 
 - ✅ FastAPI fundamentals — routing, path parameters, request/response validation
@@ -138,3 +140,15 @@ the core stack above.)*
 - User authentication (JWT)
 - Centralized exception handling
 - Automated tests with pytest
+
+---
+
+## 👤 Author
+
+- **[Mohammad Zahid Kamal]** *Full Stack AI Enthusiast & Developer*
+- *LinkedIn* [https://www.linkedin.com/in/md-zahid-kamal/]
+- *Portfolio* [https://md-zahid-kamal.vercel.app/]
+
+---
+
+*Developed with ❤️ as part of an AI Exploration Project.*
